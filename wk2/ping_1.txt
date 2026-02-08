@@ -1,0 +1,10 @@
+PING google.com (142.250.139.139) 56(84) bytes of data.
+64 bytes from lcyyzb-in-f139.1e100.net (142.250.139.139): icmp_seq=1 ttl=114 time=2.07 ms
+64 bytes from lcyyzb-in-f139.1e100.net (142.250.139.139): icmp_seq=2 ttl=114 time=1.30 ms
+64 bytes from lcyyzb-in-f139.1e100.net (142.250.139.139): icmp_seq=3 ttl=114 time=1.33 ms
+64 bytes from lcyyzb-in-f139.1e100.net (142.250.139.139): icmp_seq=4 ttl=114 time=1.34 ms
+64 bytes from lcyyzb-in-f139.1e100.net (142.250.139.139): icmp_seq=5 ttl=114 time=1.35 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 1.300/1.478/2.068/0.295 ms

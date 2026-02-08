@@ -1,0 +1,10 @@
+Pinging 143.110.215.203 with 32 bytes of data:
+Reply from 143.110.215.203: bytes=32 time=23ms TTL=50
+Reply from 143.110.215.203: bytes=32 time=22ms TTL=50
+Reply from 143.110.215.203: bytes=32 time=20ms TTL=50
+Reply from 143.110.215.203: bytes=32 time=28ms TTL=50
+
+Ping statistics for 143.110.215.203:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 20ms, Maximum = 28ms, Average = 23ms

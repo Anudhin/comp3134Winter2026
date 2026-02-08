@@ -1,0 +1,21 @@
+Tracing route to 143.110.215.203 over a maximum of 30 hops
+
+  1     3 ms     2 ms     3 ms  10.35.117.245 
+  2    17 ms    13 ms     9 ms  192.168.2.1 
+  3    23 ms    17 ms    10 ms  142.124.41.236 
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7    23 ms    15 ms    18 ms  142.124.123.158 
+  8    15 ms    18 ms    20 ms  142.124.125.82 
+  9    14 ms    14 ms    14 ms  64.230.97.179 
+ 10     *        *        *     Request timed out.
+ 11    23 ms    13 ms    12 ms  be8402.rcr71.b054249-0.yyz02.atlas.cogentco.com [154.54.92.218]
+ 12    21 ms    14 ms    13 ms  38.32.58.45 
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *       51 ms     *     143.110.215.203 
+ 17    21 ms    14 ms    12 ms  143.110.215.203 
+
+Trace complete.
